@@ -21,7 +21,7 @@ This project analyzes a public e-commerce dataset spanning multiple relational t
 ---
 
 
-# 🎯 Business Problems & Objectives
+## 🎯 Business Problems & Objectives
 
 1. **The Delivery Bottleneck (Logistics Funnel):** Identify which states experience the most significant delivery variances (actual vs. estimated) and evaluate how these systemic delivery buffers impact average customer review scores.
 2. **Freight Friction:** Analyze how logistical freight costs scale relative to the actual price of products across different geographical states to uncover margin-eating shipping burdens.
@@ -29,7 +29,7 @@ This project analyzes a public e-commerce dataset spanning multiple relational t
 
 ---
 
-# 🔍 Analytical Methodology 
+## 🔍 Analytical Methodology 
 
 To address these business problems, the analysis was broken down into three distinct SQL workflows:
 
@@ -42,7 +42,7 @@ To address these business problems, the analysis was broken down into three dist
 
 ---
 
-# 💡 Strategic Recommendations
+## 💡 Strategic Recommendations
 
 1. **Logistics & Customer Satisfaction:** Shift operational focus toward product quality control and accurate tracking rather than merely accelerating shipments. The data clearly shows that beating bloated delivery estimates by 20 days does not guarantee 5-star reviews.
 2. **Mitigating Freight Burdens:** To combat the 28% freight burden in remote northern states (like Roraima), explore strategic regional warehouse expansion or incentivize onboarding sellers located closer to these logistical bottlenecks rather than subsidizing shipping costs.
