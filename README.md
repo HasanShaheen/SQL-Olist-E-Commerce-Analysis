@@ -48,5 +48,3 @@ To address these business problems, the analysis was broken down into three dist
 2. **Mitigating Freight Burdens:** To combat the 28% freight burden in remote northern states (like Roraima), explore strategic regional warehouse expansion or incentivize onboarding sellers located closer to these logistical bottlenecks rather than subsidizing shipping costs.
 3. **Seller Ecosystem Management:** Deploy a targeted incentive or badging program for Tier 1 sellers who drive the highest revenue volume. Conversely, establish probationary performance reviews for Tier 4 sellers to protect overall platform integrity and customer trust.
 Mitigating Freight Burdens: To combat the 28% freight burden in remote northern states (like Roraima), explore strategic regional warehouse expansion or incentivize onboarding sellers located closer to these logistical bottlenecks rather than subsidizing shipping costs.
-
-Seller Ecosystem Management: Deploy a targeted incentive or badging program for Tier 1 sellers who drive the highest revenue volume. Conversely, establish probationary performance reviews for Tier 4 sellers to protect overall platform integrity and customer trust.
