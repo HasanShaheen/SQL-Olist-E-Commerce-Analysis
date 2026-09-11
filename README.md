@@ -33,11 +33,11 @@ This project analyzes a public e-commerce dataset spanning multiple relational t
 
 To address these business problems, the analysis was broken down into three distinct SQL workflows:
 
-*   **Scenario 1: Delivery Delays Analysis**
+*   **Scenario 1: Delivery Delays Analysis (Reference: `1_Executive Brief_The Delivery Bottleneck.sql`)**
     *   *Methodology:* Utilized `DATEDIFF()` and aggregate functions (`AVG`) to calculate the variance between estimated and actual delivery dates. Grouped the data geographically to prove that massive delivery buffers (arriving 10-20 days early) do not proportionally elevate customer satisfaction scores.
-*   **Scenario 2: Freight Costs Ratio Analysis**
+*   **Scenario 2: Freight Costs Ratio Analysis (Reference: `2_Executive Brief_The freight ratio by states.sql`)**
     *   *Methodology:* Applied the "Ratio of Sums" mathematical logic (`SUM(freight) / SUM(price)`) and handled potential divide-by-zero errors using `NULLIF`. This approach revealed the true macroeconomic burden, showing that remote northern states carry more than double the relative freight burden of central hubs.
-*   **Scenario 3: Seller Performance Matrix**
+*   **Scenario 3: Seller Performance Matrix (Reference: `3_Executive_Brief_The Seller Performance Matrix.sql`)**
     *   *Methodology:* Implemented Common Table Expressions (CTEs) alongside the `NTILE(4)` window function to partition aggregated seller revenue (`SUM(price)`) into four equal tiers. Executed a final query to extract targeted lists for marketing operations.
 
 ---
